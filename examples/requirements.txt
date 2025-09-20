@@ -1,0 +1,5 @@
+# Requirements for running the client examples
+# These are for connecting TO the MCP server via Dedalus
+
+dedalus-labs
+python-dotenv
