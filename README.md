@@ -1,6 +1,6 @@
 # Dedalus MCP Documentation Server
 
-An MCP server for serving and querying documentation with AI capabilities. Built for the YC Agents Hackathon.
+An MCP server built using our open-source MCP framework (OpenMCP).
 
 ## Quick Start (Local Development)
 
@@ -45,22 +45,6 @@ dedalus deploy . --name "your-docs-server"
 2. Runs `uv run main` to start the server
 3. Server runs in `/app` directory in container
 4. Docs are served from `/app/docs`
-
-## Features
-
-- Serve markdown documentation
-- Search across docs
-- AI-powered Q&A (with OpenAI)
-- Rate limiting (10 requests/minute) to protect API keys
-- Ready for agent handoffs
-
-## Tools Available
-
-- `list_docs()` - List documentation files
-- `search_docs()` - Search with keywords
-- `ask_docs()` - AI answers from docs
-- `index_docs()` - Index documents
-- `analyze_docs()` - Analyze for tasks
 
 ## Documentation
 
