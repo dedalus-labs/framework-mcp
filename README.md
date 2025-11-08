@@ -1,4 +1,4 @@
-# Dedalus MCP Documentation Server
+# OpenMCP Documentation Server
 
 An MCP server built using our open-source MCP framework (OpenMCP).
 
