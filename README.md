@@ -46,14 +46,5 @@ dedalus deploy . --name "your-docs-server"
 3. Server runs in `/app` directory in container
 4. Docs are served from `/app/docs`
 
-## Documentation
-
-See `docs/` directory for:
-- [Getting Started Guide](docs/guides/getting-started.md)
-- [Hackathon Information](docs/hackathon/yc-agents-hackathon.md)
-- [Deployment Guide](docs/guides/deployment.md)
-- [Examples](examples/)
-
 ## License
-
 MIT
